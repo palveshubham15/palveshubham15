@@ -1,4 +1,5 @@
-## Hi there 👋
+## LeetCode Status
+[![Leetcode Stats](https://leetcard.jacoblin.cool/ShubhamPalve?ext=heatmap)](https://leetcode.com/ShubhamPalve/)
 
 <!--
 **palveshubham15/palveshubham15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
